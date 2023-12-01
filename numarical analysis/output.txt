@@ -1,0 +1,20 @@
+enter number of point 
+enter x0
+enter y0
+enter x1
+enter y1
+enter x2
+enter y2
+enter x3
+enter y3
+
+fit to a * e^(b*X)
+equation =	1.0000510 * e^( 0.4992601X )
+
+to fit a * b^(x) 
+equation =	1.0000510 * 1.6475018^( X )
+
+
+to fit a * x^(b)
+equation =	3.4394963 * X ^ ( 0.4861906 )
+
